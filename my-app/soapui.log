@@ -1,0 +1,15 @@
+2020-12-09 10:58:20,122 WARN  [SoapUI] Missing folder [C:\Users\IshwarDharmadhikari\Desktop\Automation Soap Class\Api Testing\my-app\ext] for external libraries
+2020-12-09 10:58:20,450 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\IshwarDharmadhikari\soapui-settings.xml]
+2020-12-09 10:58:20,480 INFO  [HttpClientSupport$Helper] Initializing KeyStore
+2020-12-09 10:58:21,831 INFO  [WsdlProject] Loaded project from [file:/C:/Users/IshwarDharmadhikari/Desktop/Automation%20Soap%20Class/Api%20Testing/my-app/Product-Project-soapui-project.xml]
+2020-12-09 10:58:22,098 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Product Project]
+2020-12-09 10:58:22,100 INFO  [SoapUITestCaseRunner] Running Project [Product Project], runType = SEQUENTIAL
+2020-12-09 10:58:22,118 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Property  and property transfer]
+2020-12-09 10:58:22,153 INFO  [SoapUITestCaseRunner] running step [Get Product type]
+2020-12-09 10:58:25,217 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:58:25,217 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-12-09 10:58:25,223 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2020-12-09 10:58:25,472 INFO  [SoapUITestCaseRunner] running step [SaveRequest]
+2020-12-09 10:58:26,134 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:58:26,135 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Property  and property transfer], time taken: 3964ms, status: FINISHED
+2020-12-09 10:58:26,139 INFO  [SoapUITestCaseRunner] Project [Product Project] finished with status [FINISHED] in 4033ms
